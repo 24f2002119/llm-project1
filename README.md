@@ -23,8 +23,8 @@ This repository implements the **LLM Code Deployment** assignment workflow.
 
 ## Start the API server
 
-  -cd api
-   npm install
-   node server.js
+    cd api
+    npm install
+    node server.js
 
 
