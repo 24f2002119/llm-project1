@@ -1,0 +1,5 @@
+requests
+playwright
+PyYAML
+python-dotenv
+openai    # optional, for LLM-based checks if you wire OpenAI
